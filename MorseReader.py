@@ -4,9 +4,6 @@
 # -----------------------------------------------------------
 
 from PIL import Image
-import zipfile
-import shutil
-import os
 
 CODE = {'A': '.-',     'B': '-...',   'C': '-.-.', 
         'D': '-..',    'E': '.',      'F': '..-.',
